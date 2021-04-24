@@ -1,0 +1,8 @@
+I just created Empty Remote repository from GitHub.com accout by clicking on the olus icon on top right corner and new repository and give a name and click create
+
+
+
+
+And Cloned this repository by clicking on  Set up in Desktop and click on clone
+
+It cloned our remote repo to local so we can start working locally
